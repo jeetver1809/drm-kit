@@ -58,7 +58,7 @@ function makesound(key){
         break;
 
         default : {
-            alert("nothing");
+            console.log("nothing");
         }
   }
 
